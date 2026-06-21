@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Good Bye
+=======
+bgagagag
+>>>>>>> origin/branch1
